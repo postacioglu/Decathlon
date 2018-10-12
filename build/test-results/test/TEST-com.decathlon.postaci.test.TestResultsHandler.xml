@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.decathlon.postaci.test.TestResultsHandler" tests="5" skipped="0" failures="0" errors="0" timestamp="2018-10-10T05:59:30" hostname="Postaci" time="0.077">
+  <properties/>
+  <testcase name="test_rankResults" classname="com.decathlon.postaci.test.TestResultsHandler" time="0.003"/>
+  <testcase name="test_retrieveResults" classname="com.decathlon.postaci.test.TestResultsHandler" time="0.001"/>
+  <testcase name="test_saveResultsToXLSFile" classname="com.decathlon.postaci.test.TestResultsHandler" time="0.069"/>
+  <testcase name="test_retrieveResults2" classname="com.decathlon.postaci.test.TestResultsHandler" time="0.001"/>
+  <testcase name="test_sort2" classname="com.decathlon.postaci.test.TestResultsHandler" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

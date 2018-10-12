@@ -1,0 +1,11 @@
+out/production/classes/
+out/test/classes/com/decathlon/postaci/test/TestConverter.class
+build/classes/
+out/test/classes/
+build/libs/SwedDec-1.0-SNAPSHOT.jar
+build/reports/tests/test/classes/
+.gradle/buildOutputCleanup/outputFiles.bin
+.gradle/4.10.2/taskHistory/
+.gradle/4.10.2/javaCompile/
+build/test-results/test/binary/output.bin
+build/test-results/test/binary/results.bin
